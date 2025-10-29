@@ -716,6 +716,856 @@
       "estudianteId": "1004960772",
       "actividadId": "act10",
       "nota": 4.8
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act5",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1090272715",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1089485917",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act5",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005133143",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094883917",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act1",
+      "nota": 4.0
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act5",
+      "nota": 4.6
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1104544247",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act5",
+      "nota": 3.5
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act7",
+      "nota": 0.0
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act8",
+      "nota": 0.0
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act9",
+      "nota": 0.0
+    },
+    {
+      "estudianteId": "1098546043",
+      "actividadId": "act10",
+      "nota": 0.0
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act5",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1005090740",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act1",
+      "nota": 4.0
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act2",
+      "nota": 4.0
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act5",
+      "nota": 4.3
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455853",
+      "actividadId": "act10",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act2",
+      "nota": 4.0
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act5",
+      "nota": 4.1
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1091884016",
+      "actividadId": "act10",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act1",
+      "nota": 4.0
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act5",
+      "nota": 4.6
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1013580896",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092455467",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092454007",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1094878056",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act5",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1097408182",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1010064395",
+      "actividadId": "act10",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act5",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1004960454",
+      "actividadId": "act10",
+      "nota": 4.8
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act1",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act2",
+      "nota": 5.0
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act3",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act4",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act5",
+      "nota": 4.7
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act6",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act7",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act8",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act9",
+      "nota": 4.5
+    },
+    {
+      "estudianteId": "1092850295",
+      "actividadId": "act10",
+      "nota": 4.8
     }
   ]
 }
