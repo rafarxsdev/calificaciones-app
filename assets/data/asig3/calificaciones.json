@@ -1,0 +1,846 @@
+{
+    "estudiantes": [
+        {
+            "id": "1120559941",
+            "nombre": "BATERO RODRÍGUEZ MELLER DAVID",
+            "email": "mellerd.bateror@uqvirtual.edu.co"
+        },
+        {
+            "id": "1092456154",
+            "nombre": "BETANCOURT PARRA JUAN ANTONIO",
+            "email": "juana.betancourtp@uqvirtual.edu.co"
+        },
+        {
+            "id": "1005092021",
+            "nombre": "BOHORQUEZ COY SEBASTIAN",
+            "email": "sebastian.bohorquezc@uqvirtual.edu.co"
+        },
+        {
+            "id": "1095550336",
+            "nombre": "BUITRAGO OSORIO DAYANA ANDREA",
+            "email": "dayanaa.buitragoo@uqvirtual.edu.co"
+        },
+        {
+            "id": "1032939385",
+            "nombre": "CARDENAS SAAVEDRA BRYAN BERNARDO",
+            "email": "bryanb.cardenass@uqvirtual.edu.co"
+        },
+        {
+            "id": "1001198723",
+            "nombre": "CÁRDENAS SAAVEDRA LAURA MILENA",
+            "email": "lauram.cardenass@uqvirtual.edu.co"
+        },
+        {
+            "id": "1000624491",
+            "nombre": "CASTILLO HERNANDEZ JUAN DAVID",
+            "email": "juand.castilloh@uqvirtual.edu.co"
+        },
+        {
+            "id": "1077842737",
+            "nombre": "CASTRO VANEGAS JUAN PABLO DIOS",
+            "email": "juanp.castrov@uqvirtual.edu.co"
+        },
+        {
+            "id": "1005087249",
+            "nombre": "CEBALLOS DELGADO BRANDONN STIVEN",
+            "email": "brandonns.ceballosd@uqvirtual.edu.co"
+        },
+        {
+            "id": "1004666569",
+            "nombre": "CHAPAL IMBAQUIN DAMIR ALEXIS",
+            "email": "damira.chapali@uqvirtual.edu.co"
+        },
+        {
+            "id": "1094976280",
+            "nombre": "CORREA GOMEZ LUIS ALEJANDRO",
+            "email": "lacorreag@uqvirtual.edu.co"
+        },
+        {
+            "id": "1004960772",
+            "nombre": "CORTES PINEDA EDUARDO",
+            "email": "eduardo.cortesp@uqvirtual.edu.co"
+        },
+        {
+            "id": "1094953897",
+            "nombre": "ESCOBAR BERMUDEZ ANGGIE VIVIANA",
+            "email": "avescobarb@uqvirtual.edu.co"
+        },
+        {
+            "id": "1058547643",
+            "nombre": "FLOREZ PAZ VALERIA",
+            "email": "valeria.florezp@uqvirtual.edu.co"
+        },
+        {
+            "id": "1090273470",
+            "nombre": "GARCÍA ALBARRACÍN JUAN DIEGO",
+            "email": "juand.garciaa@uqvirtual.edu.co"
+        },
+        {
+            "id": "1091202597",
+            "nombre": "GARCIA BERMUDEZ EMILI",
+            "email": "emili.garciab@uqvirtual.edu.co"
+        },
+        {
+            "id": "1091884794",
+            "nombre": "GÓMEZ LEON ESTEBAN",
+            "email": "esteban.gomezl@uqvirtual.edu.co"
+        },
+        {
+            "id": "1105390933",
+            "nombre": "GÓMEZ RAMÍREZ DAVID",
+            "email": "david.gomezr@uqvirtual.edu.co"
+        },
+        {
+            "id": "1005091606",
+            "nombre": "HINCAPIE RAMIREZ ALLISON",
+            "email": "allison.hincapier@uqvirtual.edu.co"
+        },
+        {
+            "id": "1004918028",
+            "nombre": "JARAMILLO GARZON JOSE GERONIMO",
+            "email": "joseg.jaramillog@uqvirtual.edu.co"
+        },
+        {
+            "id": "1011092637",
+            "nombre": "JURADO CELEMIN DANIEL EDUARDO",
+            "email": "daniele.juradoc@uqvirtual.edu.co"
+        },
+        {
+            "id": "1005133573",
+            "nombre": "LEON SANCHEZ JEAN PIERRE",
+            "email": "jeanp.leons@uqvirtual.edu.co"
+        },
+        {
+            "id": "1091884459",
+            "nombre": "LONDOÑO PERDOMO SARITA",
+            "email": "sarita.londonop@uqvirtual.edu.co"
+        },
+        {
+            "id": "1097391129",
+            "nombre": "LÓPEZ FUENTES JUAN CAMILO",
+            "email": "juanc.lopezf@uqvirtual.edu.co"
+        },
+        {
+            "id": "1090273072",
+            "nombre": "MEJIA PARADA JUAN PABLO",
+            "email": "juanp.mejiap1@uqvirtual.edu.co"
+        },
+        {
+            "id": "1097032932",
+            "nombre": "MONTOYA TORO JORGE WILLIAM",
+            "email": "jorgew.montoyat@uqvirtual.edu.co"
+        },
+        {
+            "id": "1098306275",
+            "nombre": "MUÑOZ ARBOLEDA DANIELA",
+            "email": "daniela.munoza1@uqvirtual.edu.co"
+        },
+        {
+            "id": "1090273355",
+            "nombre": "NARVAEZ HINCAPIE DANIEL JOSUE",
+            "email": "danielj.narvaezh@uqvirtual.edu.co"
+        },
+        {
+            "id": "1091202201",
+            "nombre": "PEREZ GALLEGO JUAN ANDRES",
+            "email": "juana.perezg@uqvirtual.edu.co"
+        },
+        {
+            "id": "1004826766",
+            "nombre": "PEREZ UPEGUI JUAN DIEGO",
+            "email": "juand.perezu@uqvirtual.edu.co"
+        },
+        {
+            "id": "1094891721",
+            "nombre": "RAMIREZ SICARONY SANTIAGO",
+            "email": "santiago.ramirezs1@uqvirtual.edu.co"
+        },
+        {
+            "id": "1006054380",
+            "nombre": "RODRIGUEZ RUBIANO ADRIAANN MAURICIO",
+            "email": "adriaannm.rodriguezr@uqvirtual.edu.co"
+        },
+        {
+            "id": "1094892558",
+            "nombre": "RODRIGUEZ VELASQUEZ JEFFERSON",
+            "email": "jefferson.rodriguezv@uqvirtual.edu.co"
+        },
+        {
+            "id": "1010084230",
+            "nombre": "SANCHEZ ALVAREZ JUAN SEBASTIAN",
+            "email": "juans.sancheza@uqvirtual.edu.co"
+        },
+        {
+            "id": "1095208340",
+            "nombre": "SANCHEZ LOPEZ JUAN PABLO",
+            "email": "juanp.sanchezl@uqvirtual.edu.co"
+        },
+        {
+            "id": "1090272522",
+            "nombre": "SOTO PEREZ JUAN ESTEBAN",
+            "email": "juane.sotop@uqvirtual.edu.co"
+        },
+        {
+            "id": "1091202287",
+            "nombre": "TORRES MORALES SEBASTIAN",
+            "email": "sebastian.torresm@uqvirtual.edu.co"
+        },
+        {
+            "id": "1085904557",
+            "nombre": "TULCAN ERIRA CESAR CAMILO",
+            "email": "cesarc.tulcane@uqvirtual.edu.co"
+        },
+        {
+            "id": "1004916578",
+            "nombre": "URREA SANCHEZ JHOAN SEBASTIAN",
+            "email": "jhoans.urreas@uqvirtual.edu.co"
+        },
+        {
+            "id": "1011089228",
+            "nombre": "VARON CORREA SARA CAROLINA",
+            "email": "sarac.varonc@uqvirtual.edu.co"
+        },
+        {
+            "id": "1085686073",
+            "nombre": "ZULETA DELGADO MIGUEL ANTONIO",
+            "email": "miguela.zuletad@uqvirtual.edu.co"
+        }
+    ],
+    "actividades": [
+        {
+            "id": "act1",
+            "asignaturaId": "asig3",
+            "nombre": "Taller 1",
+            "descripcion": "Taller 1 de Programación Avanzada"
+        },
+        {
+            "id": "act2",
+            "asignaturaId": "asig3",
+            "nombre": "Parcial 1",
+            "descripcion": "Primer parcial de Programación Avanzada"
+        },
+        {
+            "id": "act3",
+            "asignaturaId": "asig3",
+            "nombre": "Parcial 2",
+            "descripcion": "Segundo parcial de Programación Avanzada"
+        }
+    ],
+    "calificaciones": [
+        {
+            "estudianteId": "1120559941",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1120559941",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1120559941",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1092456154",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1092456154",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1092456154",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1005092021",
+            "actividadId": "act1",
+            "nota": 3.2
+        },
+        {
+            "estudianteId": "1005092021",
+            "actividadId": "act2",
+            "nota": 3.2
+        },
+        {
+            "estudianteId": "1005092021",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1095550336",
+            "actividadId": "act1",
+            "nota": 3.2
+        },
+        {
+            "estudianteId": "1095550336",
+            "actividadId": "act2",
+            "nota": 3.2
+        },
+        {
+            "estudianteId": "1095550336",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1032939385",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1032939385",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1032939385",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1001198723",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1001198723",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1001198723",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1000624491",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1000624491",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1000624491",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1077842737",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1077842737",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1077842737",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1005087249",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1005087249",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1005087249",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1004666569",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1004666569",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1004666569",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1094976280",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094976280",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094976280",
+            "actividadId": "act3",
+            "nota": 0.0
+        },
+        {
+            "estudianteId": "1004960772",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1004960772",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1004960772",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1094953897",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1094953897",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1094953897",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1058547643",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1058547643",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1058547643",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273470",
+            "actividadId": "act1",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273470",
+            "actividadId": "act2",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273470",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1091202597",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091202597",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091202597",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1091884794",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091884794",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091884794",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1105390933",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1105390933",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1105390933",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1005091606",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1005091606",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1005091606",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1004918028",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004918028",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004918028",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1011092637",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1011092637",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1011092637",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1005133573",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1005133573",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1005133573",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1091884459",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091884459",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091884459",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1097391129",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1097391129",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1097391129",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1090273072",
+            "actividadId": "act1",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273072",
+            "actividadId": "act2",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273072",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1097032932",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1097032932",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1097032932",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1098306275",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1098306275",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1098306275",
+            "actividadId": "act3",
+            "nota": 0.0
+        },
+        {
+            "estudianteId": "1090273355",
+            "actividadId": "act1",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273355",
+            "actividadId": "act2",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1090273355",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1091202201",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091202201",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1091202201",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1004826766",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004826766",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004826766",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1094891721",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094891721",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094891721",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1006054380",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1006054380",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1006054380",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1094892558",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094892558",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1094892558",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1010084230",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1010084230",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1010084230",
+            "actividadId": "act3",
+            "nota": 4.2
+        },
+        {
+            "estudianteId": "1095208340",
+            "actividadId": "act1",
+            "nota": 0.0
+        },
+        {
+            "estudianteId": "1095208340",
+            "actividadId": "act2",
+            "nota": 0.0
+        },
+        {
+            "estudianteId": "1095208340",
+            "actividadId": "act3",
+            "nota": 0.0
+        },
+        {
+            "estudianteId": "1090272522",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1090272522",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1090272522",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1091202287",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1091202287",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1091202287",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1085904557",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1085904557",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1085904557",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1004916578",
+            "actividadId": "act1",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004916578",
+            "actividadId": "act2",
+            "nota": 4.0
+        },
+        {
+            "estudianteId": "1004916578",
+            "actividadId": "act3",
+            "nota": 4.6
+        },
+        {
+            "estudianteId": "1011089228",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1011089228",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1011089228",
+            "actividadId": "act3",
+            "nota": 4.7
+        },
+        {
+            "estudianteId": "1085686073",
+            "actividadId": "act1",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1085686073",
+            "actividadId": "act2",
+            "nota": 4.5
+        },
+        {
+            "estudianteId": "1085686073",
+            "actividadId": "act3",
+            "nota": 4.7
+        }
+    ]
+}
