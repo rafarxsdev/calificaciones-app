@@ -2,8 +2,8 @@
   "asignaturas": [
     {
       "id": "asig1",
-      "nombre": "Fundamentos de Infraestructura Computacional"
-    },
+      "nombre": "Seminario de Ingeniería"
+    },    
     {
       "id": "asig2",
       "nombre": "Programación I"
@@ -14,7 +14,7 @@
     },
     {
       "id": "asig4",
-      "nombre": "Seminario de Ingeniería"
+      "nombre": "Fundamentos de Infraestructura Computacional"
     }
   ]
 }

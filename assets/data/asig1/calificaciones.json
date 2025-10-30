@@ -139,61 +139,61 @@
   "actividades": [
     {
       "id": "act1",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Sustentacion",
       "descripcion": "Sustentacion Casos de estudios y lineamientos"
     },
     {
       "id": "act2",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 2",
       "descripcion": "Caso de Estudio Implementacion de IA en un Hospital"
     },
     {
       "id": "act3",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 3",
       "descripcion": "Desafio Análisis preliminar del método científico"
     },
     {
       "id": "act4",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 4",
       "descripcion": "Caso de estudio aplicando el método científico"
     },
     {
       "id": "act5",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Parcial 1",
       "descripcion": "Parcial 1"
     },
     {
       "id": "act6",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 5",
       "descripcion": "Caso de estudio: Migración de un sistema institucional a la nube"
     },
     {
       "id": "act7",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 6",
       "descripcion": "Actividad La Tecnología y sus implicaciones sociales"
     },
     {
       "id": "act8",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 7",
       "descripcion": "Caracteristicas sociales de la Ingenieria"
     },
     {
       "id": "act9",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Actividad 8",
       "descripcion": "Actividad Objetivos de desarrollo sostenible de la ONU"
     },
     {
       "id": "act10",
-      "asignaturaId": "asig4",
+      "asignaturaId": "asig1",
       "nombre": "Parcial 2",
       "descripcion": "Parcial 2"
     }
